@@ -3,11 +3,6 @@
 
 This is a machine learning project that uses Streamlit to visualize Airbnb listings, cluster them, and predict prices.
 
-## Languages Used 
-- Python
-- HTML
-- CSS
-
 ## Features
 - Unsupervised clustering
 - Streamlit-based UI
